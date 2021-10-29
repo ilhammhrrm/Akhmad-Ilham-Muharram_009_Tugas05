@@ -1,4 +1,3 @@
-//Tugas: Transpose Matriks
 #include <iostream>
 #include <conio.h>
 using namespace std;
@@ -6,8 +5,8 @@ using namespace std;
 int main(){
 	int i, j, m, n, matriks[10][10], transpose[10][10];
   
-	cout<<" ---PROGRAM TRANSPOSE MATRIKS---"<<endl;
-	cout<<"================================="<<endl;
+	cout<<"PROGRAM TRANSPOSE MATRIKS"<<endl;
+	cout<<"---------------------------"<<endl;
 	cout<<" Jumlah baris matriks : "; cin >> m;
 	cout<<" Jumlah kolom matriks : "; cin >> n;
 	
